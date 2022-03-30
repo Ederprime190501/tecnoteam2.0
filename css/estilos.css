@@ -1,0 +1,49 @@
+@font-face{
+    
+    font-family: lobster;
+    src: URL('fuentes/lobster.ttf') format('truetype');
+}
+@font-face{
+    
+    font-family: montserrat;
+    src: URL('fuentes/montserrat.ttf') format('truetype');
+}
+
+.divisor{
+    padding: 10px;
+    text-align: center;
+    color: #FFF;
+    background: #061CF4;
+}
+.secciones{
+    margin-left: 10px;
+    width: 100%;
+}
+.pie_pagina{
+    padding: 10px;
+    color: #FFF;
+    background: #061CF4;
+    font-family: montserrat;
+    font-size: 15px;
+}
+.pie_pagina img{
+    width: 50px;
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.container{
+    width: 100%;
+    font-family: montserrat;
+}
+.info h2{
+    font-family: montserrat;
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+    color: #061CF4;
+}
+.categorias{
+    width: 100%;
+    margin-left: 10px;
+}
