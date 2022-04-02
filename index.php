@@ -6,7 +6,7 @@
     <title>DeafMute.com</title>
     <link rel="shortcut icon" href="recursos/img/iconos/logotipo.png">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link rel="stylesheet" href="recursos/css/estilos.css">
+    <link rel="stylesheet" href="css/estilos.css">
 
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 </head>
@@ -63,19 +63,19 @@
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="recursos/img/slider1.PNG" class="d-block w-100" alt="...">
+          <img src="img/slider1.PNG" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h2 style="color: #061CF4;; font-family: lobster; font-size: 50px;">Con DeafMute.com</h2>
             <p class="h5" style="color: #061CF4;">"Aqui podras recibir una excelente capacitación para niños con discapacidad auditiva."</p>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="recursos/img/slider2.PNG" class="d-block w-100" alt="...">
+          <img src="img/slider2.PNG" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
           </div>
         </div>
         <div class="carousel-item">
-          <img src="recursos/img/slider3.PNG" class="d-block w-100" alt="...">
+          <img src="img/slider3.PNG" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h2 style="color: #061CF4;; font-family: lobster; font-size: 50px;">Con DeafMute.com</h2>
             <p class="h5" style="color: #061CF4;">"Aqui podras recibir una excelente ayuda para que niños con discapacidad auditiva puedan integrarse mejor."</p>
@@ -105,7 +105,7 @@
                    <div class="card-header">
                     Juegos
                     </div>
-                    <img src="recursos/img/secciones/juegos.PNG" class="card-img-top" alt="...">
+                    <img src="img/secciones/juegos.PNG" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">En esta seccion podras aprender Lenguaje de Señas a traves de nuestros juegos didacticos.</p>
                         <a href="#" class="btn btn-primary">Ver más</a>
@@ -117,7 +117,7 @@
                    <div class="card-header">
                     Lecciones
                     </div>
-                    <img src="recursos/img/secciones/Lecciones.PNG" class="card-img-top" alt="...">
+                    <img src="img/secciones/Lecciones.PNG" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">En esta seccion podras aprender Lenguaje de Señas a traves de nuestras lecciones de aprendizaje.</p>
                         <a href="#" class="btn btn-primary">Ver más</a>
@@ -129,7 +129,7 @@
                    <div class="card-header">
                     Alfabeto
                     </div>
-                    <img src="recursos/img/secciones/alfabeto.PNG" class="card-img-top" alt="...">
+                    <img src="img/secciones/alfabeto.PNG" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">En esta seccion podras aprender el alfabeto pero en Lenguaje de Señas Mexicano.</p>
                         <a href="#" class="btn btn-primary">Ver más</a>
@@ -141,7 +141,7 @@
                    <div class="card-header">
                     Vocabulario
                     </div>
-                    <img src="recursos/img/secciones/vocabulario.PNG" class="card-img-top" alt="...">
+                    <img src="img/secciones/vocabulario.PNG" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">En esta seccion podras aprender el Lenguaje de Señas Mexicano mediante nuestro vocabulario.</p>
                         <a href="vocabulario.php" class="btn btn-primary">Ver más</a>
